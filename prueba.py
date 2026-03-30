@@ -48,7 +48,6 @@ lista2=[2,4,6]
 
 print("Esta es mi modificacion bro")
 print("Segunda modificaicon")
-###HOLA AMIGOD DOY JOSEPH
-#YALAZA
+
 #como estas amiguito
 #espero que bien
